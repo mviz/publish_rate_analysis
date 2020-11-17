@@ -2,3 +2,4 @@
 .DS_STORE
 raw_data/*
 inference/*
+arviz_models/*
